@@ -1,0 +1,16 @@
+/**
+ * mdl-stepper - A Material Design Lite Stepper component polyfill.
+ * @version v1.2.1
+ * @author Alexandre Thebaldi
+ * @link https://github.com/axthebaldi/mdl-stepper
+ *
+ */
+
+/* MDL Stepper */
+
+ // Variables
+ @import 'variables';
+ @import 'mixins';
+
+ // Component
+ @import 'stepper/stepper';
